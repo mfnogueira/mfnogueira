@@ -29,18 +29,7 @@ Atualmente, venho explorando **ETL distribuído com Spark e MinIO**, **visualiza
 
 ---
 
-## 🚀 Projetos em Destaque  
 
-### 🧩 [ReasonRetriever](https://github.com/mfnogueira/ReasonRetriever)
-Sistema de busca semântica utilizando **Reason-ModernColBERT** e **Qdrant**, aplicando técnicas de **RAG** para indexação e recuperação de documentação técnica.  
-
-### ⚙️ [ETLflow](https://github.com/mfnogueira/ETLflow)
-Pipeline de dados em **Python + Spark + MinIO**, estruturado em camadas **raw**, **trusted** e **curated**.  
-
-### 🤖 [KnowledgeRAG](https://github.com/mfnogueira/KnowledgeRAG)
-Explora o uso de **RAG** e **LangSmith** para construção de soluções inteligentes com LLMs.  
-
----
 
 ## 📊 Estatísticas do GitHub  
 
